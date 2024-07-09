@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relâmpago McQueen</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Relâmpago McQueen</h1>
+    </header>
+    <main>
+        <section class="intro">
+            <h2>Sobre o Relâmpago McQueen</h2>
+            <p>Relâmpago McQueen é um carro de corrida da série de filmes "Carros" da Pixar. Conhecido por sua velocidade e determinação, McQueen é amado por fãs de todas as idades.</p>
+        </section>
+        <section class="gallery">
+            <h2>Galeria de Imagens</h2>
+            <div class="images">
+                <img src="mcqueen1.jpg" alt="Relâmpago McQueen">
+                <img src="mcqueen2.jpg" alt="Relâmpago McQueen">
+                <img src="mcqueen3.jpg" alt="Relâmpago McQueen">
+                <img src="mater.jpg" alt="Mate, o amigo do McQueen">
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Relâmpago McQueen Fansite</p>
+    </footer>
+</body>
+</html>
